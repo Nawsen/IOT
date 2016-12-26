@@ -1,7 +1,7 @@
 {
-  "name": "IOT",
+  "name": "angular2-express-starter",
   "version": "1.0.0",
-  "description": "Basic IOT app",
+  "description": "Starter application of Angular2 with Express",
   "main": "server/app.js",
   "license": "MIT",
   "angular-cli": {},
