@@ -1,7 +1,6 @@
 {
-  "name": "angular2-express-starter",
+  "name": "IOT-PI",
   "version": "1.0.0",
-  "description": "Starter application of Angular2 with Express",
   "main": "server/app.js",
   "license": "MIT",
   "angular-cli": {},
@@ -16,7 +15,6 @@
     "_server:build": "tsc -p ./server",
     "postinstall": "npm run build"
   },
-  "private": true,
   "dependencies": {
     "@angular/compiler-cli": "2.2.3",
     "@angular/common": "2.2.3",
