@@ -11,7 +11,7 @@ npm install
 npm run start
 
 # Client url: http://localhost:4200
-# Application ( epxress ) API: http://localhost:4300
+# Application ( express ) API: http://localhost:4300
 ```
 
 ## Build / Production
@@ -26,5 +26,9 @@ Structure of dist folder:
 
 /dist/server <-- expressjs
 /dist/client <-- angular2
+
+## Production
+
+NODE_ENV=production node ./dist/server/bin/www
 
 ```
