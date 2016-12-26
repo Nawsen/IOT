@@ -31,4 +31,8 @@ Structure of dist folder:
 
 NODE_ENV=production node ./dist/server/bin/www
 
+## Disable pi firewall
+
+netsh advfirewall set  currentprofile state off
+
 ```
